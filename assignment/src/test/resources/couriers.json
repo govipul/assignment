@@ -1,0 +1,32 @@
+[
+  {
+    "id": "courier-1",
+    "name": "Manolo Escobar",
+    "box": true,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.3965463,
+      "lon": 2.1963997
+    }
+  },
+  {
+    "id": "courier-2",
+    "name": "Manolo Escobar 2",
+    "box": false,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.648823,
+      "lon": -0.889085
+    }
+  },
+  {
+    "id": "courier-3",
+    "name": "Manolo Escobar 3",
+    "box": true,
+    "vehicle": "ELECTRIC_SCOOTER",
+    "location": {
+      "lat": 41.118883,
+      "lon": 1.244491
+    }
+  }
+]
